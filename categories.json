@@ -1,7 +1,7 @@
 [
   {
-    "category": "Cultura",
-    "description": "Preguntas relacionadas con arte, literatura, música y otras expresiones culturales."
+    "category": "Cocina",
+    "description": "Preguntas relacionadas con cocina."
   },
   {
     "category": "Deportes",
@@ -18,9 +18,5 @@
   {
     "category": "Historia",
     "description": "Preguntas relacionadas con eventos históricos, personajes y períodos importantes."
-  },
-  {
-    "category": "Ciencia",
-    "description": "Preguntas relacionadas con diferentes ramas de la ciencia, descubrimientos y avances científicos."
   }
 ]
